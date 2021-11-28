@@ -71,6 +71,7 @@ class Users
                                 <td>${element.first_name}</td>
                                 <td>${element.first_last_name}</td>
                                 <td>${element.email}</td>
+                                <td>${element.country}</td>
                             </tr>`
                         });
                     } else {

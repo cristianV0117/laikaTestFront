@@ -79,6 +79,7 @@
                             <th>Nombre</th>
                             <th>Apellido</th>
                             <th>Email</th>
+                            <th>Pais</th>
                         </tr>
                     </thead>
                     <tbody id="usersBody"></tbody>
