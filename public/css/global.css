@@ -1,0 +1,22 @@
+* {
+    background: #f5f8fa !important;
+    color: #636b6f;
+}
+
+.card
+{
+	background-color: #fff;
+	border: 1px solid rgba(0,0,0,0.125);
+	border-color: #d3e0e9;
+}
+
+.card-header
+{
+	background: none;
+	border-color: #d3e0e9;
+}
+
+li
+{
+	list-style: none;
+}
